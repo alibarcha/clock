@@ -18,27 +18,24 @@
 #hour,#minute,#second{
     background-color: black;
     position: absolute;
-    border-radius: 10px;
+    border-radius: 12px;
     transform-origin: bottom;
 }
 #hour{
-    width: 1.9%;
+    width: 2%;
     height: 30%;
     left: 49.4%;
-    opacity: 0.8;
     top: 20%;
 }
 #minute{
-    width: 1%;
+    width: 1.2%;
     height: 34%;
     left: 49.4%;
-    opacity: 0.8;
     top: 17%;
 }
 #second{
     width: 0.5%;
     height: 40%;
     left: 49.5%;
-    opacity: 0.8;
     top: 11%;
 }
